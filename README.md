@@ -2,7 +2,9 @@
 Relaxing way to spend your time.
 
 <div align="left">
-![cow](https://imgur.com/a/zy2DZmX)
+ 
+![program](https://github.com/maikhol/tik-tac-toe/blob/main/game.png?raw=true)
+ 
 </div>
 
 ## How to start
