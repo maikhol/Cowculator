@@ -1,2 +1,3 @@
-# Cowculator
-Fun way to learn math for kids!
+# Tic-Tac-Toe
+Long live the cows.
+Relaxing way to spend your time.
