@@ -29,5 +29,4 @@ Not this coding style:
 6. PR gets review by me
 7. PR gets approve and changes are merge to the main branch
 
-## Contact
-* Discord: maikhol#5222 
+
